@@ -1,5 +1,5 @@
 def default():
-    print("bam")
+    print("bam home page")
 
 def main():
     default()
