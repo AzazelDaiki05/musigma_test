@@ -1,5 +1,5 @@
 def default():
-    print("Hello")
+    print("bam")
 
 def main():
     default()
